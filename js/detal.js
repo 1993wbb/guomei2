@@ -13,6 +13,7 @@
 
 
 function events(){
+	alert("ChenHaiYong")
   bindevent()
 }
 
